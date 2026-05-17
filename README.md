@@ -17,36 +17,36 @@ The objective of this project is to transform raw sales data into actionable ins
 - Improve operational visibility through interactive reporting
 
 ## 💡 Key Features
-Interactive Power BI dashboard
-Dynamic filters and slicers
-Category-wise sales analysis
-Courier status tracking
-Fulfillment channel analysis
-State-wise shipment distribution
-Size-wise order breakdown
-Clean and business-oriented dashboard design
+- Interactive Power BI dashboard
+- Dynamic filters and slicers
+- Category-wise sales analysis
+- Courier status tracking
+- Fulfillment channel analysis
+- State-wise shipment distribution
+- Size-wise order breakdown
+- Clean and business-oriented dashboard design
 
 ## 🔍 Key Insights
-The majority of orders were successfully shipped.
-T-shirts and shirts generated the highest order volume.
-Amazon fulfillment handled most deliveries compared to merchant fulfillment.
-Maharashtra contributed the highest shipment volume.
-Medium and large product sizes were the most frequently ordered.
+- The majority of orders were successfully shipped.
+- T-shirts and shirts generated the highest order volume.
+- Amazon fulfillment handled most deliveries compared to merchant fulfillment.
+- Maharashtra contributed the highest shipment volume.
+- Medium and large product sizes were the most frequently ordered.
 
 ## 🛠️ Tools & Technologies Used
-Power BI
-Power Query
-DAX
-Microsoft Excel / CSV
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel / CSV
 
 ## 🧠 Skills Demonstrated
-Data Cleaning & Transformation
-Data Visualization
-Business Intelligence Reporting
-Dashboard Design
-KPI Analysis
-Interactive Reporting
-Data Storytelling
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- Dashboard Design
+- KPI Analysis
+- Interactive Reporting
+- Data Storytelling
 
 ## ✅ Conclusion
 
