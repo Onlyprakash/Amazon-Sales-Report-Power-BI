@@ -9,12 +9,12 @@ The objective of this project is to transform raw sales data into actionable ins
 <img width="575" height="735" alt="Amazon Sales Report Dashboard Screenshot" src="https://github.com/user-attachments/assets/7d29af79-f258-4c9a-b35b-5f7a7f14d9d6" />
 
 ## 💼 Business Objectives
-Analyze overall sales performance
-Monitor courier and shipment status
-Identify top-performing product categories
-Track fulfillment methods
-Understand state-wise order distribution
-Improve operational visibility through interactive reporting
+- Analyze overall sales performance
+- Monitor courier and shipment status
+- Identify top-performing product categories
+- Track fulfillment methods
+- Understand state-wise order distribution
+- Improve operational visibility through interactive reporting
 
 ## 💡 Key Features
 Interactive Power BI dashboard
